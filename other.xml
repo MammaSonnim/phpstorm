@@ -16,6 +16,8 @@
     </entry>
   </component>
   <component name="NodeJsLocalInterpreters">
-    <local-interpreter path="C:/Program Files/nodejs/node.exe" />
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="5.2.0" last-modified="1449623902000" />
+    </local-interpreter>
   </component>
 </application>
