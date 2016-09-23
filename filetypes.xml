@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="ojst" type="HTML" />
       <mapping pattern="erer" type="PLAIN_TEXT" />
+      <mapping pattern="historymode.js" type="PLAIN_TEXT" />
       <mapping ext="gcin" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
